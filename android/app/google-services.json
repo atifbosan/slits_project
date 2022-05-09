@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "496711093013",
+    "project_id": "slits-project",
+    "storage_bucket": "slits-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:496711093013:android:1837ae6b52d702f772771c",
+        "android_client_info": {
+          "package_name": "com.example.slits_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "496711093013-vjoo26tc8q168be387it0vr3u03m44ap.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.slits_project",
+            "certificate_hash": "161321e71d9b47aa4c53620ac89061b1d7c02f44"
+          }
+        },
+        {
+          "client_id": "496711093013-hnqgct1n3q0242m92ikkqq9ghg8nr5u7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC73jgofL_INJNchFXyKcWwpccot_dOOHg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "496711093013-hnqgct1n3q0242m92ikkqq9ghg8nr5u7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
